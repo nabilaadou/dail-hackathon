@@ -1,0 +1,8 @@
+yarn run v1.22.22
+$ next start -p 8083 --hostname 127.0.0.1 --port 8083
+   ▲ Next.js 15.5.4
+   - Local:        http://127.0.0.1:8083
+   - Network:      http://127.0.0.1:8083
+
+ ✓ Starting...
+ ✓ Ready in 908ms

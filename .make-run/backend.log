@@ -1,0 +1,89 @@
+INFO:     Started server process [121848]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50982 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "POST /csv-jobs?limit=100 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48664 - "GET /csv-jobs/edcc0483d47b4df1b57a943c8a26232a/result HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "POST /csv-jobs?limit=100 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42174 - "GET /csv-jobs/6bca67af0c7f4dbe84759ed1f74906e3/result HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "POST /csv-jobs?limit=10 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:37812 - "GET /csv-jobs/14ab867bd3b84765adf008674329e2e0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "GET /csv-jobs/14ab867bd3b84765adf008674329e2e0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "GET /csv-jobs/14ab867bd3b84765adf008674329e2e0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "GET /csv-jobs/14ab867bd3b84765adf008674329e2e0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37812 - "GET /csv-jobs/14ab867bd3b84765adf008674329e2e0/result HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "POST /csv-jobs?limit=100 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49364 - "GET /csv-jobs/c991ed8405ba4be294b541eabc56f219/result HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41034 - "GET /api/applications HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41034 - "GET /api/applications HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51520 - "GET /api/health HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51530 - "GET /api/applications HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51536 - "GET /api/outreach HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51544 - "GET /api/library HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51552 - "GET /api/resumes HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [121848]

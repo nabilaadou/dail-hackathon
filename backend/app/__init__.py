@@ -1,0 +1,2 @@
+"""Wolf Day parser service."""
+
