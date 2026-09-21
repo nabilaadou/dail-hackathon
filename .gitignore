@@ -1,2 +1,19 @@
-node_modules
-.next
+# JavaScript dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
